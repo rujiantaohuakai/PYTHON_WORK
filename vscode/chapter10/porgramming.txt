@@ -1,0 +1,3 @@
+I love programming.
+I also love creating new things
+.I also love working with other people.
