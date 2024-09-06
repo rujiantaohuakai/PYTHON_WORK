@@ -1,7 +1,9 @@
 from random import randint
-
+#radint(a,b) returns a random integer between a and b (inclusive)
+#返回a到b之间的随机整数，包括a和b
 
 class Die:
+    """模拟一个骰子，可自定义骰子的面数"""
 
     def __init__(self, sides=6):
         self.sides = sides
