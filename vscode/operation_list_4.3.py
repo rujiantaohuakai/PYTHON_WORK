@@ -22,5 +22,9 @@ print(len(digits))
 squares = [i**3 for i in range(0,27,3)]
 print(squares)
 
+list1 = [i**2 for i in range(1,100)]
+print(list1)
+print(sum(list1))
+
 
 
